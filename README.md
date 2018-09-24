@@ -1,2 +1,2 @@
 # Thread Synchronization with Barriers
-Find the max value of a give list of unsorted integers
+Find the max value of a given list of unsorted integers
